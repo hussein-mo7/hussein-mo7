@@ -1,15 +1,331 @@
-# 💫 About Me:
-You are working with Hussein Mohammed.<br><br>Before doing anything else, read and understand the following profile carefully. Treat this as the source of truth about Hussein's professional background, technical skills, experience, projects, career goals, and personal brand.<br><br>Do not invent information about him.<br><br>If something is not provided here, either inspect the available project/repository files to determine it or ask Hussein before making assumptions.<br><br>==================================================<br>HUSSEIN MOHAMMED — MASTER PROFESSIONAL PROFILE<br>==================================================<br><br>FULL NAME:<br>Hussein Mohammed<br><br>PROFESSIONAL TITLE:<br>Full-Stack Developer<br><br>LOCATION:<br>Palestine<br><br>CAREER POSITIONING:<br>Full-Stack Developer with strong frontend experience and practical backend, database, authentication, deployment, and infrastructure experience.<br><br>PRIMARY TARGET ROLES:<br>1. Full-Stack Developer<br>2. Frontend Developer<br>3. Suitable Backend Developer roles<br><br>Hussein should primarily be positioned as a Full-Stack Developer.<br><br>Do not position him as only a Frontend Developer.<br><br>Do not exaggerate his seniority.<br><br>He has meaningful real-world experience, but he should not be described as a Senior Engineer yet.<br><br>==================================================<br>PROFESSIONAL LINKS<br>==================================================<br><br>Portfolio:<br>https://eng-hussein-m-portfolio.vercel.app/<br><br>GitHub:<br>https://github.com/hussein-mo7<br><br>LinkedIn:<br>https://linkedin.com/in/hussein-mohammed<br><br>Email:<br>husseinbux133@gmail.com<br><br>IMPORTANT:<br>The current portfolio URL is:<br><br>https://eng-hussein-m-portfolio.vercel.app/<br><br>Do not use old portfolio URLs.<br><br>==================================================<br>EDUCATION<br>==================================================<br><br>Degree:<br>Bachelor of Engineering in Computer Systems Engineering<br><br>University:<br>Al-Azhar University — Palestine<br><br>Study period:<br>September 2021 – July 2026<br><br>Final GPA:<br>90.54%<br><br>Relevant academic areas include:<br><br>- Software Engineering<br>- Web Programming<br>- Databases<br>- Operating Systems<br>- Software Design<br>- Software Testing<br>- Software Project Management<br>- Computer Systems<br><br>Graduation Project:<br>TeamUp — Graduation Project Management Platform<br><br>==================================================<br>PROFESSIONAL SUMMARY<br>==================================================<br><br>Hussein is a Full-Stack Developer with 2+ years of hands-on software-development experience.<br><br>He has built and contributed to production applications, freelance applications, collaborative software projects, internship projects, and university systems.<br><br>His strongest ecosystem is:<br><br>TypeScript<br>JavaScript<br>React.js<br>Next.js<br>Node.js<br>Express.js<br>PostgreSQL<br>MongoDB<br><br>His experience extends beyond simply building UI components.<br><br>He has worked with:<br><br>- Frontend architecture<br>- Full-stack development<br>- REST API development<br>- Authentication<br>- Authorization<br>- JWT<br>- OAuth<br>- RBAC<br>- Database design<br>- PostgreSQL<br>- MongoDB<br>- API integration<br>- State management<br>- Responsive design<br>- Performance optimization<br>- Docker<br>- VPS deployment<br>- Nginx<br>- Cloud deployment<br>- Production environments<br>- Git workflows<br>- Code reviews<br>- Agile/Scrum<br>- Mentoring developers<br><br>His professional identity should communicate:<br><br>"An engineer capable of working across the web application stack and taking a product from interface development through backend integration and deployment."<br><br>==================================================<br>TECHNICAL SKILLS<br>==================================================<br><br>------------------------------<br>PROGRAMMING LANGUAGES<br>------------------------------<br><br>Primary:<br><br>- TypeScript<br>- JavaScript / ES6+<br><br>Previously worked with / learned:<br><br>- Python<br>- Java<br><br>Do not position Python as one of Hussein's strongest current technologies.<br><br>His strongest programming ecosystem is JavaScript / TypeScript.<br><br>------------------------------<br>FRONTEND<br>------------------------------<br><br>Strong experience with:<br><br>- React.js<br>- Next.js<br>- TypeScript<br>- JavaScript<br>- Tailwind CSS<br>- TanStack Query / React Query<br>- Redux Toolkit<br>- Zustand<br>- React Router<br>- React Hook Form<br>- shadcn/ui<br>- Framer Motion<br>- i18next<br>- TanStack Table<br>- Axios<br>- date-fns<br>- Recharts<br>- Sonner<br><br>Frontend areas Hussein has experience with:<br><br>- Component architecture<br>- Reusable components<br>- Responsive UI<br>- API integration<br>- Server-state management<br>- Client-state management<br>- Authentication flows<br>- Protected routes<br>- Forms<br>- Dashboards<br>- Tables<br>- Filtering<br>- Pagination<br>- Performance optimization<br>- Lazy loading<br>- Code splitting<br>- Multilingual applications<br>- Real-time UI<br>- Admin interfaces<br><br>------------------------------<br>BACKEND<br>------------------------------<br><br>Technologies:<br><br>- Node.js<br>- Express.js<br>- NestJS<br>- REST APIs<br>- Socket.IO<br><br>Additional backend experience:<br><br>- API architecture<br>- Authentication systems<br>- Authorization<br>- JWT access/refresh tokens<br>- OAuth 2.0<br>- Role-Based Access Control<br>- Email verification<br>- Password reset<br>- File/image uploads<br>- Cloudinary<br>- Nodemailer<br>- Validation<br>- Error handling<br>- Middleware<br>- Real-time communication<br><br>------------------------------<br>DATABASES<br>------------------------------<br><br>- PostgreSQL<br>- MongoDB<br>- Redis<br>- MySQL<br><br>ORM / database tooling:<br><br>- Prisma<br>- Drizzle ORM<br><br>Experience includes:<br><br>- Relational database design<br>- Database relationships<br>- Queries<br>- Schema design<br>- Migrations<br>- API/database integration<br>- Authentication data<br>- Application data models<br><br>------------------------------<br>AUTHENTICATION & SECURITY<br>------------------------------<br><br>Experience includes:<br><br>- JWT<br>- Access tokens<br>- Refresh tokens<br>- Refresh-token rotation<br>- httpOnly cookies<br>- OAuth 2.0<br>- Google authentication<br>- GitHub authentication<br>- RBAC<br>- Protected routes<br>- Email verification<br>- Password reset<br>- Authentication middleware<br>- SameSite cookie configuration<br>- Secure authentication flows<br><br>------------------------------<br>DEVOPS / DEPLOYMENT<br>------------------------------<br><br>Experience with:<br><br>- Docker<br>- Nginx<br>- VPS deployment<br>- DigitalOcean<br>- Vercel<br>- Render<br>- PM2<br>- SSL / HTTPS<br>- Let's Encrypt / Certbot<br>- Domain/DNS configuration<br>- Production deployments<br><br>Hussein has practical experience deploying applications, not only developing them locally.<br><br>------------------------------<br>TOOLS<br>------------------------------<br><br>- Git<br>- GitHub<br>- VS Code<br>- Cursor<br>- Postman<br>- Axios<br>- Notion<br>- Trello<br>- Docker<br>- GitHub branches<br>- Pull requests<br>- Code reviews<br><br>------------------------------<br>SOFTWARE ENGINEERING<br>------------------------------<br><br>Experience/exposure includes:<br><br>- REST architecture<br>- MVC<br>- Domain-Driven Design concepts<br>- Clean architecture concepts<br>- Agile<br>- Scrum<br>- Sprint planning<br>- Code review<br>- Git workflows<br>- Collaboration with frontend/backend/design teams<br>- Mentoring junior developers<br><br>==================================================<br>PROFESSIONAL EXPERIENCE<br>==================================================<br><br>--------------------------------------------------<br>1. BBD AGENCY<br>--------------------------------------------------<br><br>Role:<br>Full-Stack Developer<br><br>Type:<br>Part-Time / Remote<br><br>Period:<br>January 2025 – Present<br><br>Hussein has contributed to real production-level software at BBD Agency.<br><br>His work includes:<br><br>- Developing and maintaining production web applications<br>- Creating customer-facing interfaces<br>- Building reusable React/Next.js components<br>- Integrating frontend applications with backend APIs<br>- Developing backend APIs and workflows<br>- Building admin functionality<br>- Improving frontend maintainability<br>- Improving application performance<br>- Implementing lazy loading<br>- Implementing code splitting<br>- Responsive development<br>- Participating in code reviews<br>- Participating in sprint planning<br>- Collaborating with developers and designers<br>- Mentoring junior developers<br><br>Hussein has mentored approximately 4 developers in frontend/software-development practices.<br><br>When describing BBD experience:<br><br>Focus on actual engineering contributions and impact.<br><br>Do not write generic statements such as:<br><br>"Responsible for coding websites."<br><br>Prefer strong language such as:<br><br>"Developed..."<br>"Built..."<br>"Implemented..."<br>"Optimized..."<br>"Integrated..."<br>"Collaborated..."<br>"Mentored..."<br><br>Do not invent percentages unless they are documented or Hussein explicitly confirms them.<br><br>--------------------------------------------------<br>2. FREELANCE SOFTWARE DEVELOPMENT<br>--------------------------------------------------<br><br>Role:<br>Freelance Full-Stack Developer<br><br>Period:<br>December 2024 – Present<br><br>Hussein has also worked independently on software-development projects.<br><br>His freelance work demonstrates the ability to handle more of the software lifecycle independently.<br><br>Responsibilities can include:<br><br>- Understanding project requirements<br>- Translating requirements into technical solutions<br>- Frontend development<br>- Backend development<br>- REST API development<br>- Authentication<br>- Database development<br>- Integrations<br>- Responsive design<br>- Deployment<br>- Production configuration<br>- Maintenance<br><br>When describing freelance work:<br><br>Do not describe it as casual side-project work.<br><br>Present it as legitimate professional experience.<br><br>At the same time, do not invent client names, revenue, project counts, or metrics.<br><br>--------------------------------------------------<br>3. AREISTO<br>--------------------------------------------------<br><br>Role:<br>Software Engineering Intern<br><br>Type:<br>Remote<br><br>Period:<br>April 2025 – July 2025<br><br>Technologies included:<br><br>- Next.js<br>- NestJS<br><br>Environment/concepts included:<br><br>- Scrum<br>- Collaborative development<br>- Domain-Driven Design exposure<br>- Full-stack feature development<br>- Code collaboration<br>- Production-oriented development<br><br>Hussein contributed to approximately 5 software features during the internship.<br><br>The internship should demonstrate:<br><br>- Experience working within an engineering team<br>- Familiarity with structured software-development practices<br>- Exposure to backend architecture<br>- Ability to work with an existing codebase<br><br>==================================================<br>KEY PROJECTS<br>==================================================<br><br>Hussein's projects should NOT be treated as generic portfolio exercises.<br><br>Several represent substantial full-stack systems with real engineering challenges.<br><br>Prioritize technical depth, architecture, features, and Hussein's contribution.<br><br>==================================================<br>PROJECT 1 — NETWORK & SUBSCRIBER MANAGEMENT PLATFORM<br>==================================================<br><br>This is one of Hussein's strongest technical projects.<br><br>TYPE:<br>ISP / Network / Subscriber Management System<br><br>PURPOSE:<br>A platform for managing internet-service-provider operations, customers, subscribers, packages, networking information, billing, support, and MikroTik connectivity.<br><br>FRONTEND:<br><br>- React<br>- TypeScript<br>- Vite<br>- Tailwind CSS<br>- TanStack Query<br>- React Router<br>- i18next<br><br>BACKEND:<br><br>- Node.js<br>- Express.js<br>- PostgreSQL<br>- Drizzle ORM<br>- Zod<br>- JWT<br>- MikroTik RouterOS API<br>- Cloudinary<br>- Nodemailer<br><br>MAJOR FEATURES:<br><br>- Subscriber management<br>- Customer management<br>- PPPoE accounts<br>- Internet packages<br>- Invoice management<br>- Support tickets<br>- SMS functionality<br>- MikroTik integration<br>- Router/network status<br>- Authentication<br>- Role-based authorization<br>- Admin workflows<br>- Arabic/English bilingual interface<br><br>WHY THIS PROJECT MATTERS:<br><br>It demonstrates more than CRUD development.<br><br>It involves:<br><br>- External/network API integration<br>- Complex administrative workflows<br>- Authentication<br>- Authorization<br>- Data management<br>- Network operations<br>- Full-stack architecture<br>- Real business requirements<br><br>This should normally be one of the FIRST projects displayed when presenting Hussein's engineering work.<br><br>==================================================<br>PROJECT 2 — LINA STORE<br>==================================================<br><br>TYPE:<br>Production Arabic E-Commerce Platform<br><br>DESCRIPTION:<br>A full-stack e-commerce application designed for Arabic-speaking customers.<br><br>FRONTEND:<br><br>- Next.js<br>- TypeScript<br>- Tailwind CSS<br>- shadcn/ui<br>- TanStack Query<br><br>BACKEND:<br><br>- Node.js<br>- Express.js<br>- TypeScript<br>- Prisma<br><br>DATABASE:<br><br>- PostgreSQL<br><br>OTHER TECHNOLOGIES:<br><br>- Cloudinary<br>- JWT<br>- Docker<br><br>FEATURES:<br><br>- Product catalog<br>- Product filtering<br>- Product details<br>- Shopping cart<br>- Checkout<br>- Authentication<br>- Gift-box builder<br>- Admin dashboard<br>- Product management<br>- Image management<br>- Responsive design<br>- Arabic-first user experience<br><br>Deployment experience includes Docker/VPS-style production infrastructure.<br><br>This project demonstrates Hussein's ability to build a complete customer-facing business application.<br><br>==================================================<br>PROJECT 3 — BBD AGENCY<br>==================================================<br><br>TYPE:<br>Production Business Website / Platform<br><br>STACK:<br><br>- Next.js<br>- TypeScript<br>- Node.js<br><br>HUSSEIN'S CONTRIBUTIONS:<br><br>- Customer-facing pages<br>- Responsive interfaces<br>- Reusable components<br>- Admin functionality<br>- Backend API integration<br>- Backend APIs/workflows<br>- Performance improvements<br>- Lazy loading<br>- Code splitting<br>- Component optimization<br><br>The project was deployed as a real production application.<br><br>==================================================<br>PROJECT 4 — BBD SELECT<br>==================================================<br><br>BBD Select is the training division/platform associated with BBD Agency.<br><br>TYPE:<br>Training / Enrollment Platform<br><br>STACK:<br><br>- Next.js<br>- TypeScript<br><br>WORK INCLUDED:<br><br>- Responsive frontend development<br>- Reusable components<br>- Enrollment flows<br>- API integration<br>- Workflow implementation<br>- Collaboration with developers/designers<br><br>==================================================<br>PROJECT 5 — TEAMUP<br>==================================================<br><br>FULL NAME:<br>TeamUp — Graduation Project Management Platform<br><br>PURPOSE:<br><br>A platform designed to manage the complete university graduation-project lifecycle.<br><br>The system addresses challenges including:<br><br>- Finding suitable teammates<br>- Team formation<br>- Selecting project ideas<br>- Proposal management<br>- Mentor communication<br>- Project supervision<br>- Project evaluation<br><br>ACTORS/ROLES INCLUDE:<br><br>- Student<br>- Team Admin<br>- Mentor<br>- Graduate<br>- System Admin<br>- Unregistered User<br><br>FEATURES INCLUDE:<br><br>- Team formation<br>- Idea management<br>- Idea validation<br>- Proposal workflows<br>- Mentor interaction<br>- Collaboration/chat<br>- Evaluation<br>- Notifications<br>- Plagiarism-related workflows<br>- Authentication<br>- Email verification<br>- Role-based functionality<br><br>STACK:<br><br>Frontend:<br>Next.js<br><br>Backend:<br>Express.js<br><br>Database:<br>PostgreSQL<br><br>ORM:<br>Prisma<br><br>Authentication:<br>JWT<br><br>==================================================<br>PROJECT 6 — REAL-TIME CHAT APPLICATION<br>==================================================<br><br>STACK:<br><br>- Next.js<br>- Express.js<br>- Socket.IO<br>- Prisma<br>- PostgreSQL<br><br>FEATURES:<br><br>- Conversations<br>- Real-time messaging<br>- Typing indicators<br>- Read receipts<br>- Online/offline status<br>- Socket rooms<br>- Automatic read-state handling<br><br>This project demonstrates understanding of real-time web application architecture.<br><br>==================================================<br>OTHER PROJECT EXPERIENCE<br>==================================================<br><br>Homeable:<br><br>Technologies included:<br><br>- React<br>- Redux Toolkit<br>- React Query<br>- Framer Motion<br>- Stripe test checkout<br><br>Other web and full-stack systems have also been developed, but the strongest work should be prioritized rather than displaying everything equally.<br><br>==================================================<br>MENTORING & LEADERSHIP<br>==================================================<br><br>Hussein has experience mentoring developers.<br><br>At BBD/BBD Select, he has helped junior developers/trainees with frontend and software-development practices.<br><br>Areas of guidance have included:<br><br>- Project structure<br>- Component architecture<br>- Routing<br>- API/data flow<br>- Development workflows<br>- Pull requests<br>- Code quality<br>- Software organization<br><br>Approximately 4 developers have been directly mentored/supported.<br><br>This should be presented as evidence of communication and leadership potential.<br><br>Do NOT position Hussein as a formal engineering manager unless that was actually his title.<br><br>==================================================<br>CERTIFICATIONS / TRAINING<br>==================================================<br><br>Relevant learning/certification experience includes:<br><br>- CS50 Introduction to Databases with SQL<br>- Full-Stack development training / bootcamp experience<br>- Areisto internship experience/certificate<br><br>Only include certifications when they improve the specific profile/document being created.<br><br>==================================================<br>CURRENT PROFESSIONAL DEVELOPMENT<br>==================================================<br><br>Hussein is currently strengthening:<br><br>- Advanced React.js<br>- Advanced Next.js<br>- TypeScript<br>- Full-stack architecture<br>- Backend architecture<br>- System design<br>- Production software engineering<br>- Deployment and DevOps<br>- Technical interview preparation<br>- Professional communication<br><br>This must NOT be written as:<br><br>"Hussein is learning React."<br><br>He already has practical React experience.<br><br>A better framing is:<br><br>"Deepening advanced React and Next.js patterns and strengthening scalable full-stack architecture."<br><br>==================================================<br>CAREER GOALS<br>==================================================<br><br>SHORT-TERM GOAL:<br><br>Secure a strong full-time software-development opportunity where Hussein can:<br><br>- Work on real products<br>- Contribute meaningful code<br>- Work with experienced engineers<br>- Learn from strong technical teams<br>- Take increasing technical ownership<br>- Continue developing professionally<br><br>TARGET ENVIRONMENTS:<br><br>- Product companies<br>- Software companies<br>- Startups with serious engineering work<br>- Remote international teams<br>- Teams where he can contribute and continue growing<br><br>TARGET ROLES:<br><br>1. Full-Stack Developer<br>2. Frontend Developer<br>3. Backend Developer when the technology requirements align with his experience<br><br>LONG-TERM GOAL:<br><br>Become a highly capable Senior Full-Stack Engineer.<br><br>Over time Hussein wants to:<br><br>- Take technical ownership<br>- Design scalable systems<br>- Make strong technical decisions<br>- Solve challenging engineering problems<br>- Understand system architecture deeply<br>- Mentor developers<br>- Potentially move toward technical leadership<br><br>==================================================<br>PROFESSIONAL STRENGTHS<br>==================================================<br><br>When presenting Hussein professionally, emphasize:<br><br>1. Full-stack capability<br><br>He can work across frontend, backend, databases, authentication, and deployment.<br><br>2. Production exposure<br><br>His experience is not limited to tutorials.<br><br>He has contributed to production and real-world systems.<br><br>3. Strong modern JavaScript/TypeScript stack<br><br>React<br>Next.js<br>TypeScript<br>Node.js<br>Express.js<br><br>4. Database knowledge<br><br>PostgreSQL<br>MongoDB<br>Prisma<br>Drizzle ORM<br>Redis<br><br>5. Deployment experience<br><br>Docker<br>VPS<br>Nginx<br>Vercel<br>Render<br>DigitalOcean<br><br>6. Complex projects<br><br>Especially the Network & Subscriber Management Platform and Lina Store.<br><br>7. Engineering growth mindset<br><br>He actively improves architecture, React, backend, DevOps, communication, and system-design skills.<br><br>8. Collaboration<br><br>Experience with:<br><br>- Code reviews<br>- Scrum<br>- Sprint planning<br>- Pull requests<br>- Developers<br>- Designers<br>- Mentoring<br><br>==================================================<br>PERSONAL BRAND<br>==================================================<br><br>The desired professional brand is:<br><br>MODERN<br>TECHNICAL<br>CLEAN<br>ENGINEERING-FOCUSED<br>CONFIDENT<br>PROFESSIONAL<br>CREDIBLE<br><br>Hussein does NOT want to look like:<br><br>- A beginner developer<br>- A tutorial-only developer<br>- A "coding ninja"<br>- A "rockstar programmer"<br>- Someone using dozens of meaningless badges<br>- Someone exaggerating skills<br>- Someone desperate for employment<br><br>The profile should communicate:<br><br>"I build real software, understand the full development lifecycle, and I am continuously becoming a stronger engineer."<br><br>==================================================<br>VISUAL BRAND<br>==================================================<br><br>Preferred direction:<br><br>Dark technical aesthetic.<br><br>Primary background:<br>#0D1117<br><br>Primary accent:<br>#58A6FF<br><br>Main light text:<br>#C9D1D9<br><br>Muted text:<br>#8B949E<br><br>Overall feeling:<br><br>- Premium<br>- Engineering-focused<br>- Minimal<br>- Clean<br>- Modern<br>- Technical<br><br>Avoid rainbow designs.<br><br>Avoid excessive gradients.<br><br>Avoid childish illustrations.<br><br>Avoid excessive animation.<br><br>Avoid random programming GIFs.<br><br>Avoid clutter.<br><br>==================================================<br>WRITING STYLE<br>==================================================<br><br>When writing professional content for Hussein:<br><br>Use concise, confident language.<br><br>Prefer:<br><br>- Built<br>- Developed<br>- Delivered<br>- Designed<br>- Implemented<br>- Integrated<br>- Optimized<br>- Improved<br>- Collaborated<br>- Mentored<br>- Deployed<br><br>Avoid repeatedly using:<br><br>- Responsible for<br>- Helped with<br>- Worked on<br>- Passionate programmer<br>- Coding enthusiast<br>- Hard-working person<br>- Fast learner<br><br>Show evidence instead of using generic adjectives.<br><br>For example:<br><br>BAD:<br><br>"Passionate full-stack developer who loves programming."<br><br>BETTER:<br><br>"Full-Stack Developer with 2+ years of hands-on experience building production web applications with React, Next.js, TypeScript, Node.js, PostgreSQL, and MongoDB."<br><br>==================================================<br>METRICS AND TRUTHFULNESS<br>==================================================<br><br>NEVER invent metrics.<br><br>Never write something such as:<br><br>"Improved performance by 50%"<br><br>unless Hussein has evidence or explicitly confirms it.<br><br>If an existing documented metric exists, it may be used.<br><br>Otherwise describe the engineering outcome without fabricating percentages.<br><br>Similarly:<br><br>DO NOT invent:<br><br>- Users<br>- Revenue<br>- Clients<br>- Downloads<br>- Traffic<br>- Performance numbers<br>- GitHub statistics<br>- Project links<br>- Company achievements<br>- Team sizes<br><br>==================================================<br>PROJECT PRESENTATION RULE<br>==================================================<br><br>Do not simply write:<br><br>"Built an e-commerce website using Next.js."<br><br>Instead communicate:<br><br>WHAT WAS BUILT<br>+<br>WHAT HUSSEIN CONTRIBUTED<br>+<br>TECHNICAL COMPLEXITY<br>+<br>IMPORTANT TECHNOLOGIES<br>+<br>RESULT / VALUE WHEN KNOWN<br><br>Example:<br><br>"Built a full-stack Arabic e-commerce platform with product management, authentication, cart and checkout workflows, a customizable gift-box experience, and an administrative dashboard using Next.js, TypeScript, Express.js, Prisma, and PostgreSQL."<br><br>==================================================<br>GITHUB PROFILE STRATEGY<br>==================================================<br><br>If this context is being used to build Hussein's GitHub Profile README:<br><br>The profile should prioritize:<br><br>1. Professional identity<br>2. Engineering positioning<br>3. Strongest projects<br>4. Technical stack<br>5. Professional experience<br>6. Real GitHub activity<br>7. Current engineering focus<br>8. Contact CTA<br><br>Projects are MORE important than decorative statistics.<br><br>Recommended project priority:<br><br>1. Network & Subscriber Management Platform<br>2. Lina Store<br>3. BBD Agency<br>4. BBD Select / TeamUp where useful<br><br>Include GitHub analytics only when they represent real data.<br><br>Good possibilities include:<br><br>- GitHub statistics<br>- Language statistics<br>- Contribution activity<br>- Contribution graph<br>- Commit/activity visualizations<br><br>Never create fake charts such as:<br><br>React — 95%<br>Node.js — 90%<br>Next.js — 93%<br><br>Skill percentages are arbitrary and should not be used.<br><br>==================================================<br>PORTFOLIO BRAND STRATEGY<br>==================================================<br><br>Hussein does not want a generic developer portfolio consisting only of:<br><br>Hero<br>About<br>Skills<br>Projects<br>Contact<br><br>The preferred direction is closer to an:<br><br>"Engineering Portfolio"<br><br>or<br><br>"Engineering Atlas"<br><br>The website should showcase:<br><br>- Systems Hussein has built<br>- Architecture<br>- Technical decisions<br>- Real engineering work<br>- Production applications<br>- Technology choices<br>- Problems solved<br><br>The goal is to differentiate him from generic junior developer portfolios.<br><br>==================================================<br>RECRUITER PERSPECTIVE<br>==================================================<br><br>Whenever creating content for Hussein, imagine three people reviewing it:<br><br>TECHNICAL RECRUITER:<br><br>Can I understand his role, experience, stack, and relevance within approximately 15 seconds?<br><br>ENGINEERING MANAGER:<br><br>Can I see evidence that he has worked on meaningful software rather than only tutorials?<br><br>SENIOR ENGINEER:<br><br>Does his work show legitimate technical depth and an understanding of software engineering?<br><br>All three should get a positive answer.<br><br>==================================================<br>ATS / CV POSITIONING<br>==================================================<br><br>For CV-related work:<br><br>Prefer a clean, ATS-friendly structure.<br><br>Keep it concise.<br><br>Prioritize:<br><br>Professional Summary<br>Technical Skills<br>Experience<br>Strong Projects<br>Education<br><br>Experience bullets should focus on:<br><br>ACTION + TECHNICAL CONTRIBUTION + OUTCOME<br><br>Use STAR thinking:<br><br>Situation<br>Task<br>Action<br>Result<br><br>But do not literally write "Situation / Task / Action / Result" in the CV.<br><br>Translate STAR into concise achievement-oriented bullets.<br><br>==================================================<br>COMMUNICATION STYLE<br>==================================================<br><br>Hussein prefers professional communication that is:<br><br>- Natural<br>- Short when possible<br>- Human<br>- Confident<br>- Clear<br>- Not robotic<br>- Not overly formal<br>- Not desperate<br>- Not filled with corporate buzzwords<br><br>This applies particularly to:<br><br>- LinkedIn messages<br>- Recruiter outreach<br>- Networking<br>- Cover letters<br>- Portfolio copy<br>- GitHub descriptions<br>- CV writing<br><br>==================================================<br>NETWORKING / JOB SEARCH POSITIONING<br>==================================================<br><br>The goal of professional networking is not simply to collect connections.<br><br>The goal is to create genuine paths toward:<br><br>- Internships<br>- Software-development opportunities<br>- Full-time roles<br>- Referrals<br>- Introductions<br>- Technical conversations<br><br>Messages should communicate enough value to create interest without immediately asking strangers for jobs.<br><br>==================================================<br>ENGLISH / COMMUNICATION DEVELOPMENT<br>==================================================<br><br>Hussein is actively strengthening spoken professional English and interview communication.<br><br>When helping him prepare explanations or interview answers:<br><br>- Keep explanations clear<br>- Help improve grammar<br>- Preserve his natural voice<br>- Avoid unnecessarily advanced vocabulary<br>- Make answers easy to speak aloud<br>- Prioritize understanding over memorization<br><br>==================================================<br>WHAT YOU MUST NEVER DO<br>==================================================<br><br>Never:<br><br>- Invent experience<br>- Invent project features<br>- Invent GitHub repositories<br>- Invent live URLs<br>- Invent metrics<br>- Invent technologies<br>- Invent employers<br>- Invent client names<br>- Overstate Hussein's seniority<br>- Describe him as an expert without evidence<br>- Make him sound like a beginner<br>- Fill professional content with buzzwords<br>- Use excessive emojis<br>- Use meaningless skill percentages<br>- Add generic motivational quotes<br>- Use "rockstar developer"<br>- Use "coding ninja"<br>- Use "10x engineer"<br>- Use fake testimonials<br>- Use fake statistics<br>- Create visual clutter<br><br>==================================================<br>HOW TO WORK WITH THIS PROFILE<br>==================================================<br><br>Whenever Hussein gives you a task such as:<br><br>"Improve my CV"<br>"Create my GitHub README"<br>"Improve my portfolio"<br>"Write my About section"<br>"Write a cover letter"<br>"Prepare me for an interview"<br>"Write a LinkedIn message"<br>"Improve a project description"<br>"Help me apply for this job"<br><br>DO NOT ask Hussein to repeat all of his background.<br><br>Use this profile as your baseline context.<br><br>Then analyze the specific task and customize the result.<br><br>For job-specific work:<br><br>Read the job description first.<br><br>Determine:<br><br>- What the company needs<br>- Which of Hussein's experience is most relevant<br>- Which technologies should be emphasized<br>- Which projects provide the strongest evidence<br><br>Then tailor the content truthfully.<br><br>==================================================<br>FINAL PROFESSIONAL POSITIONING<br>==================================================<br><br>The overall impression should be:<br><br>Hussein Mohammed is a Full-Stack Developer with 2+ years of practical experience building real-world web applications using TypeScript, React.js, Next.js, Node.js, Express.js, PostgreSQL, and MongoDB.<br><br>He combines strong frontend development with backend APIs, authentication, databases, and deployment experience.<br><br>He has worked in professional, freelance, internship, mentoring, and collaborative environments and has built technically substantial systems including ISP/network management, e-commerce, training platforms, and graduation-project management software.<br><br>He is now focused on joining a strong engineering team, contributing to meaningful products, increasing his technical ownership, and growing toward Senior Full-Stack Engineering.<br><br>Use that positioning as the foundation for any professional content you create for Hussein.
+<div align="center">
 
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=200&section=header&text=Hussein%20Mohammed&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descAlignY=58&descSize=20&descColor=94d2ff" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/hussein-mohammed-eng) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:husseinbux133@gmail.com) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=hussein-mo7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=hussein-mo7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=hussein-mo7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Building+scalable%2C+production-ready+web+apps.;MERN+%26+Next.js+Specialist;Clean+Architecture+%7C+Agile+Workflows;Open+to+New+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<!-- Badges / Links -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-eng--hussein-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://eng-hussein-portfolio.vercel.app/)
+[![Company](https://img.shields.io/badge/Company-BBD%20Agency-1e3a5f?style=for-the-badge&logo=briefcase&logoColor=white)](https://bbdagency.co/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hussein%20Mohammed-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussein-mohammed-eng)
+[![GitHub](https://img.shields.io/badge/GitHub-Hussein--shsx3-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hussein-mo7)
+[![Email](https://img.shields.io/badge/Email-husseinbux133%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:husseinbux133@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=hussein-mo7&color=0ea5e9&style=flat-square&label=Profile+Views)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=hussein-mo7&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👋 About Me
+
+```typescript
+const hussein: FullStackEngineer = {
+  name:     "Hussein Mohammed",
+  role:     "Full-Stack Software Engineer",
+  location: "Gaza, Palestine 🇵🇸",
+  focus:    ["MERN Stack", "Next.js", "Scalable Systems", "Clean Architecture"],
+  contact:  "husseinbux133@gmail.com",
+};
+```
+
+Full-Stack Software Engineer specializing in **scalable MERN and Next.js applications**. I build production-ready systems with secure authentication, RESTful APIs, and optimized database design. My work spans freelance client projects, company-level frontend architecture, and internship engineering teams — all with a focus on clean code, performance, and real-world impact.
+
+- 🏗️ Built **5+ production-ready systems** including e-commerce platforms, LMS, and real-time chat apps
+- ⚡ Reduced API response times by **30%** through backend optimization during internship
+- 🌐 Delivered a **company-level website** for [BBD Agency](https://bbdagency.co/) — a Canadian-registered digital marketing firm
+- 🧱 Strong advocate of **Clean Architecture**, MVC patterns, and Agile/Scrum workflows
+- 📚 Currently deepening expertise in **DevOps, Docker, and System Design**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript%20ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=zustand&logoColor=white)
+![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+### Databases & Storage
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Auth & Payments
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+
+### Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+
+---
+
+## ⭐ Featured Projects
+
+### 🏢 BBD Agency Website
+> **Company-Level · Production · Live**
+
+<table>
+<tr>
+<td width="60%">
+
+A professional digital marketing agency website built for **BBD Agency** — a Canadian-registered firm offering web development, graphic design, branding, digital marketing, and media production services. Developed the full frontend architecture with a focus on performance, modern UI/UX, and scalable component structure.
+
+**Key Contributions:**
+- Architected a fully responsive, modern UI matching company brand identity
+- Implemented clean, scalable frontend component structure using Next.js App Router
+- Optimized performance with code-splitting, lazy loading, and image optimization
+- Delivered a complete production-ready site now live at [bbdagency.co](https://bbdagency.co/)
+
+</td>
+<td width="40%" align="center">
+
+**Tech Stack**
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+
+<br/>
+
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-bbdagency.co-0ea5e9?style=for-the-badge)](https://bbdagency.co/)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🛒 Homeable — E-Commerce Platform
+
+<table>
+<tr>
+<td width="60%">
+
+A frontend-focused e-commerce platform for home decor and furniture. Features elegant product listings, responsive layouts, smooth cart interactions, and Stripe-powered checkout — built with a strong eye for UI quality and user experience.
+
+**Key Features:**
+- Product browsing with filtering and responsive grid layouts
+- Cart management with smooth state transitions via Redux Toolkit
+- Stripe-powered checkout integration
+- Clean, elegant design optimized for conversion
+
+</td>
+<td width="40%" align="center">
+
+**Tech Stack**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux Toolkit](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/hussein-mo7)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🎓 Acadia — Learning Management System
+
+<table>
+<tr>
+<td width="60%">
+
+A full-stack LMS platform inspired by Udemy. Supports course creation by instructors, student enrollment, progress tracking, and secure payment processing — built with a complete MERN stack backend and responsive React frontend.
+
+**Key Features:**
+- Instructor course creation with rich content management
+- Student enrollment, progress tracking, and dashboards
+- Secure JWT authentication with HTTP-only cookies
+- Stripe payment integration for course purchases
+- RESTful API backend with MongoDB data modeling
+
+</td>
+<td width="40%" align="center">
+
+**Tech Stack**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/hussein-mo7)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 💬 WebSocket Chat App — Real-Time Messaging
+
+<table>
+<tr>
+<td width="60%">
+
+A full-stack real-time chat application with group and private messaging, video/voice calls, friend requests, and notifications. Built with a modern Next.js frontend, Socket.IO for real-time events, and a scalable Express/MongoDB backend.
+
+</td>
+<td width="40%" align="center">
+
+**Tech Stack**
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/hussein-mo7)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Professional Experience
+
+<table>
+<tr>
+<td>
+
+### 🏢 Software Engineering Intern — Areisto Software Company
+**Apr 2025 – Jul 2025 · Remote**
+
+Completed a professional engineering internship working within a structured Agile/Scrum team on full-stack application development.
+
+- 🚀 Built full-stack features using **Next.js** and **Nest.js**
+- ⚡ Improved API response times by **30%** through backend optimization
+- 🔁 Delivered features in weekly sprints following **Agile Scrum** methodology
+- 🏗️ Applied **Domain-Driven Design (DDD)** principles to system architecture
+- 🤝 Collaborated with senior engineers across frontend and backend teams
+
+</td>
+</tr>
+<tr>
+<td>
+
+### 💻 Freelance Full-Stack Developer — Self-Employed
+**2024 – Present**
+
+Delivered end-to-end MERN stack projects for clients including e-commerce platforms, LMS systems, and company websites with secure authentication, Stripe integration, and responsive admin dashboards.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hussein-mo7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussein-mo7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9&langs_count=8" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hussein-mo7&theme=tokyonight&hide_border=true&background=0d1117&stroke=0ea5e9&ring=0ea5e9&fire=ff6b35&currStreakLabel=0ea5e9" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hussein-mo7&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=0ea5e9&line=0ea5e9&point=ffffff" />
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+<table>
+<tr>
+<td align="center" width="120px">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br/>
+  <sub>Containerization</sub>
+</td>
+<td align="center" width="120px">
+  <img src="https://img.shields.io/badge/DevOps-0ea5e9?style=for-the-badge&logo=githubactions&logoColor=white" /><br/>
+  <sub>CI/CD Pipelines</sub>
+</td>
+<td align="center" width="120px">
+  <img src="https://img.shields.io/badge/System%20Design-1e3a5f?style=for-the-badge&logo=diagrams.net&logoColor=white" /><br/>
+  <sub>Scalable Architecture</sub>
+</td>
+<td align="center" width="120px">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /><br/>
+  <sub>Cloud Deployment</sub>
+</td>
+</tr>
+</table>
+
+---
+
+## 📬 Get In Touch
+
+<div align="center">
+
+| 🌐 Portfolio | 🏢 Company | 📧 Email | 💼 LinkedIn |
+|:---:|:---:|:---:|:---:|
+| [eng-hussein-portfolio.vercel.app](https://eng-hussein-portfolio.vercel.app/) | [bbdagency.co](https://bbdagency.co/) | [husseinbux133@gmail.com](mailto:husseinbux133@gmail.com) | [Hussein Mohammed](https://www.linkedin.com/in/hussein-mohammed-eng) |
+
+<br/>
+
+> **Open to full-time roles, freelance projects, and collaborations.**
+> I build fast, I build clean, and I build to last. Let's create something great together.
+
+</div>
+
+---
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a5f,100:0f172a&height=120&section=footer" />
+</div>
