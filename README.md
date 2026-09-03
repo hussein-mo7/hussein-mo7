@@ -315,7 +315,7 @@ Delivered end-to-end MERN stack projects for clients including e-commerce platfo
 
 | 🌐 Portfolio | 🏢 Company | 📧 Email | 💼 LinkedIn |
 |:---:|:---:|:---:|:---:|
-| [eng-hussein-portfolio.vercel.app](https://eng-hussein-portfolio.vercel.app/) | [bbdagency.co](https://bbdagency.co/) | [husseinbux133@gmail.com](mailto:husseinbux133@gmail.com) | [Hussein Mohammed](https://www.linkedin.com/in/hussein-mohammed-eng) |
+| [eng-hussein-portfolio.vercel.app](https://eng-hussein-m-portfolio.vercel.app/) | [bbdagency.co](https://bbdagency.co/) | [husseinbux133@gmail.com](mailto:husseinbux133@gmail.com) | [Hussein Mohammed](https://www.linkedin.com/in/hussein-mohammed-eng) |
 
 <br/>
 
