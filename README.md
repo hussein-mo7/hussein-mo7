@@ -145,19 +145,6 @@ Independent web development for clients across various real-world use cases.
 
 <br/>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hussein-mo7&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussein-mo7&layout=compact&hide_border=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hussein-mo7&theme=minimal&hide_border=true" alt="Contribution Graph" />
-</p>
-
-<br/>
-
 ## 📫 Connect With Me
 
 <p align="center">
