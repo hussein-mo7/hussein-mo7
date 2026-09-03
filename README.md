@@ -2,144 +2,212 @@
 
 # Hussein Mohammed
 
-### Full-Stack Developer — TypeScript · React / Next.js · Node.js
+**Full-Stack Developer**
 
-Palestine · Computer Systems Engineering, Al-Azhar University
+📍 Gaza, Palestine 🇵🇸 &nbsp;·&nbsp; Computer Systems Engineering, Al-Azhar University
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-enghussein.me-0A66C2?style=flat-square)](https://enghussein.me/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hussein-mohammed)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:husseinbux133@gmail.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Building+production-ready+web+applications;from+interface+to+infrastructure.)](https://eng-hussein-m-portfolio.vercel.app/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=0D1117)](https://eng-hussein-m-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-58A6FF?style=for-the-badge&logo=linkedin&logoColor=0D1117)](https://linkedin.com/in/hussein-mohammed)
+[![Email](https://img.shields.io/badge/Email-58A6FF?style=for-the-badge&logo=gmail&logoColor=0D1117)](mailto:husseinbux133@gmail.com)
 
 </div>
 
----
+<br>
 
 ## About
 
-I'm a Full-Stack Developer with 2+ years of experience building and shipping production web applications — from initial architecture to deployment. I work primarily across the TypeScript ecosystem: React and Next.js on the frontend, Node.js and Express on the backend, with PostgreSQL and MongoDB for data.
+Full-Stack Developer with 2+ years of hands-on experience building and shipping production web applications — from responsive interfaces to REST APIs and database-backed systems. I work primarily across the TypeScript ecosystem: React and Next.js on the frontend, Node.js and Express on the backend, with PostgreSQL and MongoDB for data.
 
-My day-to-day work spans frontend architecture, REST API design, authentication systems (JWT, OAuth, RBAC), database design, and deployment (Docker, Nginx, VPS, Vercel). I've also reviewed code and mentored junior developers as part of a small agency team.
+My day-to-day covers frontend architecture, API design, authentication (JWT, OAuth, RBAC), database design, and deployment (Docker, Nginx, VPS). I've worked across agency, freelance, and internship settings, and regularly review code and mentor other developers.
 
-Below are the projects and experience that best represent how I build.
+```ts
+const hussein: FullStackDeveloper = {
+  role: "Full-Stack Developer",
+  base: "Gaza, Palestine",
+  stack: ["React", "Next.js", "Node.js", "TypeScript", "PostgreSQL"],
+  focus: ["Frontend architecture", "REST APIs", "Scalable systems"],
+  currentlyAt: "BBD Agency",
+};
+```
 
 ---
 
 ## Tech Stack
 
 **Languages**
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
 **Frontend**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/-Zustand-433E38?style=flat-square)
-![TanStack Query](https://img.shields.io/badge/-TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-000000?style=flat-square)
-![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+
+![React](https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-0D1117?style=flat-square&logo=reactquery&logoColor=FF4154)
+![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-0D1117?style=flat-square&logo=redux&logoColor=764ABC)
+![Zustand](https://img.shields.io/badge/-Zustand-0D1117?style=flat-square)
+![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-0D1117?style=flat-square&logo=reacthookform&logoColor=EC5990)
+![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-0D1117?style=flat-square&logo=shadcnui&logoColor=FFFFFF)
+![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0D1117?style=flat-square&logo=framer&logoColor=0055FF)
+![React Router](https://img.shields.io/badge/-React%20Router-0D1117?style=flat-square&logo=reactrouter&logoColor=CA4245)
+![i18next](https://img.shields.io/badge/-i18next-0D1117?style=flat-square&logo=i18next&logoColor=26A69A)
 
 **Backend**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Express.js](https://img.shields.io/badge/-Express.js-0D1117?style=flat-square&logo=express&logoColor=FFFFFF)
+![NestJS](https://img.shields.io/badge/-NestJS-0D1117?style=flat-square&logo=nestjs&logoColor=E0234E)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-0D1117?style=flat-square)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-0D1117?style=flat-square&logo=socketdotio&logoColor=FFFFFF)
 
 **Databases & ORM**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Drizzle ORM](https://img.shields.io/badge/-Drizzle_ORM-C5F74F?style=flat-square)
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248)
+![Redis](https://img.shields.io/badge/-Redis-0D1117?style=flat-square&logo=redis&logoColor=DC382D)
+![Prisma](https://img.shields.io/badge/-Prisma-0D1117?style=flat-square&logo=prisma&logoColor=FFFFFF)
+![Drizzle ORM](https://img.shields.io/badge/-Drizzle%20ORM-0D1117?style=flat-square)
+
+**Auth & Security**
+
+![JWT](https://img.shields.io/badge/-JWT-0D1117?style=flat-square&logo=jsonwebtokens&logoColor=FFFFFF)
+![OAuth 2.0](https://img.shields.io/badge/-OAuth%202.0-0D1117?style=flat-square)
+![RBAC](https://img.shields.io/badge/-RBAC-0D1117?style=flat-square)
+![httpOnly Cookies](https://img.shields.io/badge/-httpOnly%20Cookies-0D1117?style=flat-square)
 
 **DevOps & Deployment**
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
+![Nginx](https://img.shields.io/badge/-Nginx-0D1117?style=flat-square&logo=nginx&logoColor=009639)
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0D1117?style=flat-square&logo=digitalocean&logoColor=0080FF)
+![Vercel](https://img.shields.io/badge/-Vercel-0D1117?style=flat-square&logo=vercel&logoColor=FFFFFF)
+![Render](https://img.shields.io/badge/-Render-0D1117?style=flat-square&logo=render&logoColor=46E3B7)
+![VPS](https://img.shields.io/badge/-VPS-0D1117?style=flat-square)
 
 **Tools**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
----
-
-## Experience
-
-**Full-Stack Developer — BBD Agency** · Remote / Part-Time
-Building customer-facing web applications and reusable React/Next.js components, developing and integrating backend APIs, and improving frontend performance through lazy loading and code splitting. Regularly involved in code reviews, sprint planning, and mentoring junior developers.
-
-**Freelance Software Developer**
-Delivered full-stack solutions end-to-end for independent clients — from requirements gathering through deployment.
-
-**Software Engineering Intern — Areisto**
-Worked with Next.js and NestJS in a collaborative development environment.
+![Git](https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat-square&logo=github&logoColor=FFFFFF)
+![Postman](https://img.shields.io/badge/-Postman-0D1117?style=flat-square&logo=postman&logoColor=FF6C37)
+![VS Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+![Trello](https://img.shields.io/badge/-Trello-0D1117?style=flat-square&logo=trello&logoColor=0052CC)
+![Notion](https://img.shields.io/badge/-Notion-0D1117?style=flat-square&logo=notion&logoColor=FFFFFF)
 
 ---
 
 ## Featured Projects
 
-### Network & Subscriber Management Platform
-A full-stack ISP/network management platform for handling subscribers, PPPoE, internet packages, invoices, and support tickets, with direct MikroTik integration for network control.
+### 🌐 Network & Subscriber Management Platform
 
-- **My contribution:** Designed and built the full stack — data model, REST API, and the admin-facing UI, including role-based access and a bilingual (Arabic/English) interface.
-- **Tech:** React · TypeScript · Node.js · Express · PostgreSQL · Drizzle ORM · TanStack Query · Zod · JWT · MikroTik API
-- **Why it's interesting:** Goes beyond typical CRUD — it integrates directly with MikroTik routers to manage real subscriber connections and packages, tying software state to live network infrastructure.
-- 🔗 [Repository URL] · [Live Demo]
+A full-stack ISP and subscriber management system — handling subscriber and customer accounts, PPPoE provisioning, internet packages, invoicing, and support tickets, with direct MikroTik RouterOS integration and a fully bilingual (Arabic/English) interface.
 
-### Lina Store
-A production Arabic e-commerce application covering the full shopping flow, from browsing to checkout, plus an admin dashboard for product and order management.
+- Real-time integration with MikroTik RouterOS to manage live subscriber connections and packages
+- Role-based authorization across admin and operator accounts
+- End-to-end request validation with Zod
+- Bilingual, RTL-aware admin dashboard
 
-- **My contribution:** Built the storefront and admin dashboard, including a custom gift-box builder feature, cart and checkout flow, and authentication.
-- **Tech:** Next.js · TypeScript · Tailwind CSS · shadcn/ui · TanStack Query · Node.js · Express · Prisma · PostgreSQL · Cloudinary · JWT · Docker
-- **Why it's interesting:** Handles real e-commerce complexity — a custom product configurator (gift-box builder), image management via Cloudinary, and a fully RTL-aware Arabic UI.
-- 🔗 [Repository URL] · [Live Demo]
+`React` `TypeScript` `Vite` `Tailwind CSS` `TanStack Query` `Node.js` `Express.js` `PostgreSQL` `Drizzle ORM` `JWT` `MikroTik RouterOS API`
 
-### BBD Agency — Company Website
-The production website for BBD Agency, combining customer-facing marketing pages with backend-driven admin functionality.
+🔗 [Live Demo](https://new.wewifi.online) · Repository: private (client project)
 
-- **My contribution:** Built reusable UI components, customer-facing pages, and admin functionality, backed by custom APIs, with a focus on responsive design and performance optimization.
-- **Tech:** Next.js · TypeScript · Node.js
-- **Why it's interesting:** A real client-facing product where performance and polish directly affect the agency's own brand.
-- 🔗 [Repository URL] · [Live Demo]
+### 🛒 Lina Store
 
-### BBD Select
-A training and learning platform built for BBD Agency's internal and external programs.
+Production Arabic e-commerce platform covering the full shopping journey — catalog, filtering, cart, checkout, and authentication — with a custom gift-box builder and an admin dashboard for product, order, and image management.
 
-- **My contribution:** Built responsive, reusable UI components and enrollment workflows, and integrated the backend API for course and user data.
-- **Tech:** Next.js · TypeScript
-- 🔗 [Repository URL] · [Live Demo]
+- Custom gift-box builder as a standalone product configurator
+- Cloudinary-backed image pipeline
+- Dockerized deployment to a VPS
+- Fully responsive, RTL-aware Arabic interface
 
-### TeamUp — Graduation Project Management Platform
-A platform to help students form teams, propose and manage graduation project ideas, and collaborate with mentors through evaluation.
+`Next.js` `TypeScript` `Tailwind CSS` `shadcn/ui` `TanStack Query` `Node.js` `Express.js` `Prisma` `PostgreSQL` `Docker`
 
-- **My contribution:** Built core workflows for team formation, project proposals, mentor interaction, and notifications across the full stack.
-- **Tech:** Next.js · Express.js · PostgreSQL · Prisma · JWT
-- **Why it's interesting:** Models a full multi-role workflow (students, teams, mentors) with proposal and evaluation states, not just single-user CRUD.
-- 🔗 [Repository URL] · [Live Demo]
+🔗 [Live Demo](https://linastore.online) · Repository: private (client project)
+
+### 🏢 BBD Agency — Company Website
+
+Production website for BBD Agency, combining customer-facing marketing pages with an admin dashboard for content management.
+
+- Customer-facing pages and reusable UI components built with Next.js App Router
+- Admin dashboard backed by custom APIs
+- Performance work: lazy loading, code-splitting, image optimization
+
+`Next.js` `TypeScript` `Node.js`
+
+🔗 [Live Demo](https://bbdagency.co) · Repository: private (company project)
+
+<details>
+<summary><strong>More projects</strong></summary>
+<br>
+
+**TeamUp — Graduation Project Management Platform**
+Helps students form teams, propose and manage graduation project ideas, and collaborate with mentors through structured evaluation workflows.
+`Next.js` `Express.js` `PostgreSQL` `Prisma` `JWT`
+🔗 [Repository](https://github.com/hussein-mo7/TeamUp-Website-Front)
+
+**BBD Select**
+Training platform for BBD Agency's software engineering program — enrollment workflows, reusable UI components, and API integration for course and trainee data.
+`Next.js` `TypeScript`
+Repository: private (internal platform)
+
+</details>
 
 ---
 
-## Currently Focused On
+## Professional Experience
 
-- Deepening advanced React and Next.js patterns (App Router, server components, caching strategies)
-- Strengthening full-stack architecture and system design skills
-- Building production-quality applications with an eye toward scalability and maintainability
-- Growing toward a Senior Full-Stack Engineer role
+**Full-Stack Developer — BBD Agency** · Remote, Part-Time
+Building and maintaining production web applications across frontend and backend. Developing reusable React/Next.js components and backend APIs, optimizing performance through lazy loading and code-splitting, and taking part in code reviews, sprint planning, and mentoring junior developers.
+
+**Freelance Software Developer** · Remote
+End-to-end ownership of client projects — requirements gathering, architecture, development, and deployment. Built frontend interfaces, REST APIs, authentication, and database-driven features across multiple engagements, deployed with Docker, VPS infrastructure, and Nginx.
+
+**Software Engineering Intern — Areisto** · Remote
+Built full-stack features with Next.js and NestJS inside an Agile/Scrum team, improving API response times by ~30% through backend optimization and contributing to code reviews and software architecture discussions.
 
 ---
 
-## Let's Connect
-
-I'm open to **Full-Stack**, **Frontend**, and relevant **Backend Developer** roles. If you're hiring or have a project that fits my background, feel free to reach out.
+## GitHub Analytics
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-enghussein.me-000000?style=for-the-badge)](https://enghussein.me/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hussein-mohammed)
-[![Email](https://img.shields.io/badge/Email-husseinbux133%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:husseinbux133@gmail.com)
+![Hussein's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hussein-mo7&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hussein-mo7&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8)
+
+</div>
+
+## Contribution Activity
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hussein-mo7&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF)
+
+</div>
+
+---
+
+## Current Focus
+
+- Advanced React and Next.js patterns — App Router, server components, caching strategies
+- Scalable full-stack architecture and backend system design
+- Production-quality TypeScript across the stack
+- DevOps and deployment: Docker, CI/CD, cloud infrastructure
+
+---
+
+<div align="center">
+
+## Let's Connect
+
+I'm interested in collaborating with teams building meaningful products. If you're looking for a developer who can contribute across the stack — from interface to infrastructure — feel free to reach out.
+
+Open to Full-Stack, Frontend, and suitable Backend Developer roles.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=0D1117)](https://eng-hussein-m-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-58A6FF?style=for-the-badge&logo=linkedin&logoColor=0D1117)](https://linkedin.com/in/hussein-mohammed)
+[![Email](https://img.shields.io/badge/Email-58A6FF?style=for-the-badge&logo=gmail&logoColor=0D1117)](mailto:husseinbux133@gmail.com)
 
 </div>
