@@ -99,7 +99,7 @@ A full-stack platform for managing network subscribers, plans, and billing workf
 
 **Tech:** React · TypeScript · Node.js · PostgreSQL
 
-**Repository:** `<!-- Add repository URL here -->` · **Live Demo:** [new.wewifi.online](https://new.wewifi.online/)
+**Live Demo:** [new.wewifi.online](https://new.wewifi.online/)
 
 ---
 
@@ -108,7 +108,7 @@ An e-commerce application covering product catalogs, cart and checkout flow, and
 
 **Tech:** React · Next.js · Node.js · MongoDB
 
-**Repository:** `<!-- Add repository URL here -->` · **Live Demo:** [linastore.online](https://linastore.online/)
+**Live Demo:** [linastore.online](https://linastore.online/)
 
 ---
 
@@ -117,7 +117,7 @@ A production marketing website built for a digital agency, focused on performanc
 
 **Tech:** Next.js · TypeScript · Tailwind CSS
 
-**Repository:** `<!-- Add repository URL here -->` · **Live Demo:** [bbdagency.co](https://bbdagency.co/)
+**Live Demo:** [bbdagency.co](https://bbdagency.co/)
 
 ---
 
@@ -126,7 +126,7 @@ A platform for managing course enrollment and training program administration, i
 
 **Tech:** React · Node.js · Express.js · PostgreSQL · JWT
 
-**Repository:** `<!-- Add repository URL here -->` · **Live Demo:** [bbdselect.com](https://bbdselect.com/)
+**Live Demo:** [bbdselect.com](https://bbdselect.com/)
 
 <br>
 
